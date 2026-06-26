@@ -68,3 +68,17 @@
 ### 3.4. Sự cố Amazon phát hiện thông tin thông tin chúng ta sử dụng đã được dùng để tạo tài khoản trước đây: Phải sử dụng email và thẻ khác
 
 ![Warning-popup](https://images.viblo.asia/c21eed04-9d7d-4376-bfa6-4138dfd66d54.png)
+
+
+## 4. Chú ý:
+
+- Sau 6 tháng (hoặc khi hết 200$ credits), tài khoản Free Plan sẽ không bị khoá ngay, nhưng có quy trình rõ ràng:
+  - Sử dụng được __Always Free__ services với hơn 30 dịch vụ
+  - Nếu không upgrade lên __Paid Plan__, tài khoản sẽ bị đóng tự động và dữ liệu bị xoá sau 90 ngày
+
+| Thời gian / Sự kiện                     | Điều gì xảy ra?                                                                       | Bạn còn dùng được gì?           |
+| ------------------------------------------ | ----------------------------------------------------------------------------------------- | -------------------------------------- |
+| **Trong 6 tháng**                   | Dùng credits $200 + Always Free. Không bị charge tiền.                                | Hầu hết dịch vụ (giới hạn)       |
+| **Hết credits hoặc đủ 6 tháng** | Free Plan **kết thúc** . AWS gửi thông báo (email + console).                 | Always Free vẫn dùng được         |
+| **Sau khi Free Plan hết**           | Bạn**phải upgrade lên Paid Plan**trong **90 ngày** .                      | Always Free + trả phí bình thường |
+| **Sau 90 ngày không upgrade**      | AWS**đóng vĩnh viễn tài khoản**và **xóa toàn bộ resource + data** . | Mất hết tài khoản                  |
