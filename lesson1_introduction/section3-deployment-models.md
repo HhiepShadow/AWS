@@ -85,7 +85,7 @@
   - Ít phổ biến hơn
 - Khi nào sử dụng: Các tổ chức trong cùng ngành có yêu cầu tương đồng như y tế, giáo dục, chính phủ
 
-## 5. Multi-Cloud:
+## 5. Multi-Cloud (Cross-Cloud):
 
 - Định nghĩa: Sử dụng nhiều dịch vụ Public Cloud khác nhau cùng lúc (AWS + Azure + GCP)
 - Lý do: Tránh vendor lock-in, best-of-breed, negotiation giá, disaster recovery
